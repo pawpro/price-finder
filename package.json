@@ -48,6 +48,7 @@
     "lodash": "4.17.11",
     "superagent": "5.0.2",
     "superagent-proxy": "2.0.0",
+    "user-agents": "1.0.437",
     "xtend": "4.0.1"
   },
   "devDependencies": {
